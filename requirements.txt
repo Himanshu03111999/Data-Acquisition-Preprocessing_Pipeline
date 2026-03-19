@@ -1,0 +1,8 @@
+rasterio
+numpy
+scipy
+scikit-image
+pystac-client
+planetary-computer
+matplotlib
+pyproj
